@@ -1,0 +1,112 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1771
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.879 seconds
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.309148 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2f84 -> priority: 1 
+  Thread -> id: 6f4 -> priority: 1 
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1771
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.643013 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3908 -> priority: 1 
+  Thread -> id: 33f4 -> priority: 1 
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:50014} time {68073}, last rec time {66063} rtt {10} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1771
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv_Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.343779 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d4c -> priority: 1 
+  Thread -> id: 3a48 -> priority: 1 
+Spawn scene object not found for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:61551} time {37874}, last rec time {35872} rtt {9} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

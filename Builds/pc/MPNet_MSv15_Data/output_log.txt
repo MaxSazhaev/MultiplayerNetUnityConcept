@@ -1,0 +1,52 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1771
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.233 seconds
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\College\AAACOLLEGE WORK\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv15_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.071308 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a88 -> priority: 1 
+  Thread -> id: 1420 -> priority: 1 
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :http://localhost:1337/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://staging-mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

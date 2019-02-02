@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI FirePro V4800 (ID=0x68c8)
+    Vendor:   ATI
+    VRAM:     1006 MB
+    Driver:   8.911.3.1000
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv13_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.688715 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 18bc -> priority: 1 
+  Thread -> id: 214c -> priority: 1 
+  Thread -> id: 228c -> priority: 1 
+  Thread -> id: b24 -> priority: 1 

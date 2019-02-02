@@ -1,0 +1,66 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI FirePro V4800 (ID=0x68c8)
+    Vendor:   ATI
+    VRAM:     1006 MB
+    Driver:   8.911.3.1000
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GameProgramming 2\ClassWork\MultiPlayerNet_MaxSazhaev\Builds\pc\MPNet_MSv6_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.274485 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 239c -> priority: 1 
+  Thread -> id: 15f8 -> priority: 1 
+  Thread -> id: 23f0 -> priority: 1 
+  Thread -> id: 212c -> priority: 1 
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+reactor filed to acomplish request with code {1234}, bytesReceived {0}
+reactor filed to acomplish request with code {1234}, bytesReceived {0}
+reactor filed to acomplish request with code {1234}, bytesReceived {0}
+Log: connection {1} has been disconnected by timeout; address {::ffff:10.28.36.130:7777}
